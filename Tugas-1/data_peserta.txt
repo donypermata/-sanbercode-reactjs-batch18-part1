@@ -2,5 +2,5 @@ Data Peserta Sanbercode Bootcamp ReactJS
 1. Nama: Dony Permata
 2. Email: donypermata17@gmail.com
 3. Sistem Operasi yang digunakan: Windows
-4. Akun GitHub : donypermata ( tidak pakai gitlab )
+4. Akun GitHub/Gitlab : donypermata ( tidak pakai gitlab )
 5. Akun Telegram: donypermata94
